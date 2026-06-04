@@ -1,0 +1,6 @@
+synthetic_xray/
+chest_xray/
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
