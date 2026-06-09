@@ -4,3 +4,4 @@ chest_xray/
 *.pth
 __pycache__/
 .ipynb_checkpoints/
+.venv/
